@@ -1,4 +1,5 @@
-Escenario:
+# **Caso 2: Joe Jacobs**
+## Escenario:
 
 Joe Jacobs, de 28 años, fue arrestado ayer acusado de vender drogas ilegales a estudiantes de secundaria. Jacobs se acercó a un oficial de policía local que se hacía pasar por un estudiante de secundaria en el estacionamiento de Smith Hill High School. Jacobs le preguntó al policía encubierto si le gustaría comprar un poco de marihuana. Antes de que el policía encubierto pudiera responder, Jacobs sacó un poco de su bolsillo y se lo mostró al oficial. Jacobs le dijo al oficial: "¡Miren esto, los más expertos no podrían cultivarlo mejor! Mi proveedor no solo me lo vende directamente, sino que él mismo lo cultiva.¨
 
@@ -16,8 +17,20 @@ Los nombres, ubicaciones y situaciones presentados son ficticios. Cualquier pare
 
 Su misión es analizar un disquete recuperado y responder a las siguientes preguntas.   La imagen dd del disquete recuperado se puede descargar usando el siguiente enlace: 
 
-http://www.honeynet.onofri.org/scans/scan24/image.zip
+[Descargar imagen del disquete](http://www.honeynet.onofri.org/scans/scan24/image.zip)/[Mirror](image.zip)
 
-MD5 (image.zip) = b676147f63923e1f428131d59b1d6a72
+**MD5 (image.zip) = b676147f63923e1f428131d59b1d6a72**
 
-Nota: se debe verificar la integridad del archivo de descarga
+*Nota: se debe verificar la integridad del archivo de descarga.*
+
+## Preguntas:
+
+1. ¿Quién es el proveedor de marihuana de Joe Jacob y cuál es su dirección?
+
+2. ¿Qué datos cruciales están disponibles en el archivo coverpage.jpg y por qué son cruciales? 
+
+3. ¿Qué (si alguna) otras escuelas de secundarias, además de Smith Hill, frecuenta Joe Jacobs?
+
+4. Para cada archivo, ¿qué procesos tomó el sospechoso para ocultarlos de los demás? 
+
+5. ¿Qué procesos has utilizado (como investigador) para examinar con éxito todo el contenido de cada archivo?
