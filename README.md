@@ -4,7 +4,7 @@
  ## Challenges
 1. [**Caso 1: ¿Dónde y cuándo fue tomada la fotografía?**](caso1/CASE1.MD)
 2. [**Caso 2: Joe Jacobs**](caso2/CASE2.MD)
-3. [Caso 3:]()
+3. [**Caso 3: Joe Jacobs Acusación**](caso3/CASE3.MD)
 
 
 
